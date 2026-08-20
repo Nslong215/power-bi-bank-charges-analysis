@@ -1,0 +1,2 @@
+# power-bi-bank-charges-analysis
+POWER BI LOAN INTEREST RECONCILIATION DASHBOARD.
