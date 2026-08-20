@@ -1,7 +1,7 @@
 
 # Power BI Loan Interest Reconciliation Dashboard
 A Power BI dashboard designed to analyze and reconcile loan interest and bank charges, helping identify variances and improve financial transaction monitoring.
-<img width="1234" height="644" alt="Screenshot 2026-08-19 181028" src="https://github.com/user-attachments/assets/6f15e65d-aa16-4349-9bd0-9d93680aca6d" />
+<img width="1195" height="634" alt="Screenshot 2026-08-20 104030" src="https://github.com/user-attachments/assets/7700d531-a648-47e5-8943-10991a69f683" />
 
 📊 Project Overview
 
